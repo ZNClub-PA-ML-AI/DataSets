@@ -44,7 +44,7 @@ This gives us a list of 21 companies(with weightage) which are:
   Tech Mahindra	0.90
   Wipro	0.98
   
- * Energy: 
+* Energy: 
   BPCL	0.97
   GAIL (India)	0.56
   NTPC	1.22
