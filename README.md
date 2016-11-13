@@ -19,3 +19,27 @@ The inclusion of Tata Motors Ltd (DVR) in the Nifty 50 will take the number of s
 * 6 out of the 10 financial services companies are private sector banks. Consider the fact that in India, there are 24 listed public sector banks and only 16 listed private sector banks. This is significantly different from how things were a decade back.
 
 ![Nifty 50 sector-wise breakdown](http://www.blog.sanasecurities.com/wp-content/uploads/2015/08/nifty-50-companies-weightage.png "Nifty 50 sector-wise breakdown")
+
+Here is the list of companies provided by [sanasecurities](http://www.blog.sanasecurities.com/nifty-50-companies-list-sector-wise-weightage/)
+
+# Target Companies & Sectors
+We have decided to go with the Top 3 weighted sectors: FinService(9), IT(5), Energy(7)
+This gives us a list of 21 companies which are:
+
+* FinServices: 
+  Axis Bank	3.09
+  Bank of Baroda	0.48
+  HDFC	6.89
+  HDFC Bank	8.02
+  ICICI Bank	4.65
+  IndusInd Bank	1.82
+  Kotak Mahindra Bank	2.89
+  State Bank of India	2.43
+  Yes Bank	1.39
+
+* IT:
+  HCL Technologies	1.36
+  Infosys	6.41
+  TCS	4.14
+  Tech Mahindra	0.90
+  Wipro	0.98
