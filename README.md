@@ -17,3 +17,5 @@ The inclusion of Tata Motors Ltd (DVR) in the Nifty 50 will take the number of s
 * No modern day e-commerce businesses find place in the CNX Nifty. Compare this with the U.S. where Facebook, Amazon, e-Bay and Yahoo are all part of the NASDAQ 100.
 * The breakup hardly showcases India as a developing economy. Construction, Infrastructure, Industrial manufacturing and cement put together contribute 6.09%. Energy and power is at 15.17%
 * 6 out of the 10 financial services companies are private sector banks. Consider the fact that in India, there are 24 listed public sector banks and only 16 listed private sector banks. This is significantly different from how things were a decade back.
+
+![Nifty 50 sector-wise breakdown](http://www.blog.sanasecurities.com/wp-content/uploads/2015/08/nifty-50-companies-weightage.png "Nifty 50 sector-wise breakdown")
