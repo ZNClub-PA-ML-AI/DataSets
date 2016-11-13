@@ -24,7 +24,7 @@ Here is the list of companies provided by [sanasecurities](http://www.blog.sanas
 
 # Target Companies & Sectors
 We have decided to go with the Top 3 weighted sectors: FinService(9), IT(5), Energy(7)
-This gives us a list of 21 companies which are:
+This gives us a list of 21 companies(with weightage) which are:
 
 * FinServices: 
   Axis Bank	3.09
@@ -43,3 +43,12 @@ This gives us a list of 21 companies which are:
   TCS	4.14
   Tech Mahindra	0.90
   Wipro	0.98
+  
+ * Energy: 
+  BPCL	0.97
+  GAIL (India)	0.56
+  NTPC	1.22
+  ONGC	1.31
+  Power Grid	1.25
+  Reliance Industries	5.43
+  Tata Power	0.44
