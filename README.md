@@ -52,3 +52,35 @@ This gives us a list of 21 companies(with weightage) which are:
   Power Grid	1.25
   Reliance Industries	5.43
   Tata Power	0.44
+
+
+### Market News Strategy
+
+#### Companies and Lows during last 12 months
+
+* FinServices: 
+  Axis Bank	3.09
+  Bank of Baroda	0.48
+  HDFC	6.89
+  HDFC Bank	8.02
+  ICICI Bank	4.65
+  IndusInd Bank	1.82
+  Kotak Mahindra Bank	2.89
+  State Bank of India	2.43
+  Yes Bank	1.39
+
+* IT:
+  HCL Technologies	1.36
+  Infosys	6.41
+  TCS	
+  Tech Mahindra	0.90
+  Wipro	0.98
+  
+* Energy: 
+  BPCL	0.97
+  GAIL (India)	0.56
+  NTPC	1.22
+  ONGC	1.31
+  Power Grid	1.25
+  Reliance Industries	5.43
+  Tata Power	0.44
