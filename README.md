@@ -88,10 +88,6 @@ This gives us a list of 21 companies(with weightage) which are:
 #### Market News Websites and XPaths
 
 ##### Moneycontrol
-- http://www.moneycontrol.com/news/ 
-+ /html/body/section[@id='mc_content']/section[@class='pgWrapper clearfix PT10']/section[@class='colLft_in']/div[@class='clearfix']/div[@class='ipo_news brdwht']/div[@class='MT15 clearfix brd_dott20']/div[@class=' ohidden']/h1/a[@class='txt25_op']
-+ /html/body/section[@id='mc_content']/section[@class='pgWrapper clearfix PT10']/section[@class='colLft_in']/div[@class='clearfix']/div[@class='ipo_news brdwht']/div[@class='MT15 clearfix']/div[@class='nwsbx280 PR20']/div[@class='brd_dott20 MB15']/div[@class='Ohidden']/h2[@class='Ohidden']/a[@class='opsb15_bk']
-+ /html/body/section[@id='mc_content']/section[@class='pgWrapper clearfix PT10']/section[@class='colLft_in']/div[@class='clearfix']/div[@class='ipo_news brdwht']/div[@class='MT15 clearfix']/div[@class='nwsbx280 nobor PL20'][1]/div[@class='brd_dott20 MB15']/div[@class='Ohidden']/h2[@class='Ohidden']
 
 - http://www.moneycontrol.com/news/news-All.html
 + /html/body[@id='newsn']/section[@id='mc_content']/section[@class='pgWrapper clearfix PT10']/section[@class='colLft_in']/div[@class='wbg']/div[@class='artiCol PR']/div[@class='clearfix']/div[2]/ul[@class='nws_listing']/li[32]/div[@class='clearfix']/div[@class='ohidden']/h2
