@@ -90,14 +90,14 @@ This gives us a list of 21 companies(with weightage) which are:
 ##### Moneycontrol
 
 - http://www.moneycontrol.com/news/news-All.html
-+ /html/body[@id='newsn']/section[@id='mc_content']/section[@class='pgWrapper clearfix PT10']/section[@class='colLft_in']/div[@class='wbg']/div[@class='artiCol PR']/div[@class='clearfix']/div[2]/ul[@class='nws_listing']/li[32]/div[@class='clearfix']/div[@class='ohidden']/h2
++ /html/body[@id='newsn']/section[@id='mc_content']/section[@class='pgWrapper clearfix PT10']/section[@class='colLft_in']/div[@class='wbg']/div[@class='artiCol PR']/div[@class='clearfix']/div[2]/ul[@class='nws_listing']/li[2]/div[@class='clearfix']/div[@class='ohidden']/h2
 
-+ /html/body[@id='newsn']/section[@id='mc_content']/section[@class='pgWrapper clearfix PT10']/section[@class='colLft_in']/div[@class='wbg']/div[@class='artiCol PR']/div[@class='clearfix']/div[2]/ul[@class='nws_listing']/li[32]/div[@class='clearfix']/div[@class='ohidden']/p[@class='MT2']
++ /html/body[@id='newsn']/section[@id='mc_content']/section[@class='pgWrapper clearfix PT10']/section[@class='colLft_in']/div[@class='wbg']/div[@class='artiCol PR']/div[@class='clearfix']/div[2]/ul[@class='nws_listing']/li[2]/div[@class='clearfix']/div[@class='ohidden']/p[@class='MT2']
 
-+ /html/body[@id='newsn']/section[@id='mc_content']/section[@class='pgWrapper clearfix PT10']/section[@class='colLft_in']/div[@class='wbg']/div[@class='artiCol PR']/div[@class='clearfix']/div[2]/ul[@class='nws_listing']/li[32]/div[@class='clearfix']/div[@class='ohidden']/p[@class='nws_datetx MT5']
++ /html/body[@id='newsn']/section[@id='mc_content']/section[@class='pgWrapper clearfix PT10']/section[@class='colLft_in']/div[@class='wbg']/div[@class='artiCol PR']/div[@class='clearfix']/div[2]/ul[@class='nws_listing']/li[2]/div[@class='clearfix']/div[@class='ohidden']/p[@class='nws_datetx MT5']
 
 - http://www.moneycontrol.com/news/all-news-All-2-next-0.html
-- till http://www.moneycontrol.com/news/all-news-All-3350-next-0.html 11th Nov 2015 news
+- till li[2] ,li[4] .. li[32] http://www.moneycontrol.com/news/all-news-All-3350-next-0.html 11th Nov 2015 news
 
 
 ##### Livemint
@@ -108,11 +108,10 @@ This gives us a list of 21 companies(with weightage) which are:
 - /html/body/div[@id='o-wrapper']/div[@class='wrapper']/section[@class='left-col']/div[@class='listing-box-container']/div[@class='listing-box'][1]/div[@class='text-box']/p[@class='intro']
 - /html/body/div[@id='o-wrapper']/div[@class='wrapper']/section[@class='left-col']/div[@class='listing-box-container']/div[@class='listing-box'][1]/div[@class='text-box']/p[@class='date-box']
 
-- till http://www.livemint.com/Query/DIoW9PdSAJUlZsu7iBevDI/companies-opinion.html?facet=subSection&page=24
+- till [10] page=24
 
 - http://www.livemint.com/Query/V1eAlpSAzt0kHm6oBnOvDI/management.html?facet=subSection&page=0
 
-- using same XPath and url till page=24
 
 
 
