@@ -56,9 +56,9 @@ This gives us a list of 21 companies(with weightage) which are:
 
 ### Market News Strategy
 
-#### Companies and Lows of more than 100 points during last 12 months
+#### Companies and Lows of more than 4% during last 12 months
 
-* FinServices: 
+##### FinServices: 
   Axis Bank	3.09
   Bank of Baroda	0.48
   HDFC	6.89
@@ -69,14 +69,14 @@ This gives us a list of 21 companies(with weightage) which are:
   State Bank of India	2.43
   Yes Bank	1.39
 
-* IT:
+##### IT:
   HCL Technologies	1.36
-  Infosys	6.41
+  Infosys	8-9,1-4/11;25-29,17-22,11-16/8;15-18/7;21-28,8-10/6;5-11/4;8-10/2;==17-19/11;
   TCS	7-9,1-3/11;7-9/9;19-23,16-18/8;15-19/7;22-24/6;20-25/4;22-25,8-10/2;11-14,1-6/1;=11-17/11;
   Tech Mahindra	0.90
   Wipro	0.98
   
-* Energy: 
+##### Energy: 
   BPCL	0.97
   GAIL (India)	0.56
   NTPC	1.22
