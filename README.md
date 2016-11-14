@@ -104,9 +104,9 @@ This gives us a list of 21 companies(with weightage) which are:
 
 - http://www.livemint.com/Query/DIoW9PdSAJUlZsu7iBevDI/companies-opinion.html?facet=subSection&page=0
 
-- /html/body/div[@id='o-wrapper']/div[@class='wrapper']/section[@class='left-col']/div[@class='listing-box-container']/div[@class='listing-box'][1]/div[@class='text-box']/h2[@class='split-heading-strong']
-- /html/body/div[@id='o-wrapper']/div[@class='wrapper']/section[@class='left-col']/div[@class='listing-box-container']/div[@class='listing-box'][1]/div[@class='text-box']/p[@class='intro']
-- /html/body/div[@id='o-wrapper']/div[@class='wrapper']/section[@class='left-col']/div[@class='listing-box-container']/div[@class='listing-box'][1]/div[@class='text-box']/p[@class='date-box']
+- /html/body/div[@id='o-wrapper']/div[@class='wrapper']/section[@class='left-col']/div[@class='listing-box-container']/div[@class='listing-box'][1]/div[@class='text-box']/h2[@class='split-heading-strong']/a/text()
+- /html/body/div[@id='o-wrapper']/div[@class='wrapper']/section[@class='left-col']/div[@class='listing-box-container']/div[@class='listing-box'][1]/div[@class='text-box']/p[@class='intro']/a/text()
+- /html/body/div[@id='o-wrapper']/div[@class='wrapper']/section[@class='left-col']/div[@class='listing-box-container']/div[@class='listing-box'][1]/div[@class='text-box']/p[@class='date-box']/text()
 
 - till [10] page=24 OCT 27
 
