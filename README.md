@@ -56,7 +56,7 @@ This gives us a list of 21 companies(with weightage) which are:
 
 ### Market News Strategy
 
-#### Companies and Lows during last 12 months
+#### Companies and Lows of more than 100 points during last 12 months
 
 * FinServices: 
   Axis Bank	3.09
@@ -72,7 +72,7 @@ This gives us a list of 21 companies(with weightage) which are:
 * IT:
   HCL Technologies	1.36
   Infosys	6.41
-  TCS	
+  TCS	7-9,1-3/11;7-9/9;19-23,16-18/8;15-19/7;22-24/6;20-25/4;22-25,8-10/2;11-14,1-6/1;=11-17/11;
   Tech Mahindra	0.90
   Wipro	0.98
   
