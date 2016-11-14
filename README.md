@@ -108,10 +108,18 @@ This gives us a list of 21 companies(with weightage) which are:
 - /html/body/div[@id='o-wrapper']/div[@class='wrapper']/section[@class='left-col']/div[@class='listing-box-container']/div[@class='listing-box'][1]/div[@class='text-box']/p[@class='intro']
 - /html/body/div[@id='o-wrapper']/div[@class='wrapper']/section[@class='left-col']/div[@class='listing-box-container']/div[@class='listing-box'][1]/div[@class='text-box']/p[@class='date-box']
 
-- till [10] page=24
+- till [10] page=24 OCT 27
 
-- http://www.livemint.com/Query/V1eAlpSAzt0kHm6oBnOvDI/management.html?facet=subSection&page=0
+- http://www.livemint.com/Query/V1eAlpSAzt0kHm6oBnOvDI/management.html?facet=subSection&page=0 to 24 
 
+##### Economic Times
 
+- http://economictimes.indiatimes.com/markets/stocks/news
+
++ /html/body/section[@id='netspidersosh']/section[@id='pageContent']/div[@class='eachStory'][1]/h3
++ /html/body/section[@id='netspidersosh']/section[@id='pageContent']/div[@class='eachStory'][1]/p
++ /html/body/section[@id='netspidersosh']/section[@id='pageContent']/div[@class='eachStory'][1]/time[@class='date-format']
+
+- till [32] http://economictimes.indiatimes.com/markets/stocks/news/articlelist/msid-2146843,page-100.cms SEP 28
 
 
