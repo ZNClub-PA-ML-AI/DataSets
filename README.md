@@ -107,6 +107,7 @@ This gives us a list of 21 companies(with weightage) which are:
 - /html/body/div[@id='o-wrapper']/div[@class='wrapper']/section[@class='left-col']/div[@class='listing-box-container']/div[@class='listing-box'][1]/div[@class='text-box']/h2[@class='split-heading-strong']/a/text()
 - /html/body/div[@id='o-wrapper']/div[@class='wrapper']/section[@class='left-col']/div[@class='listing-box-container']/div[@class='listing-box'][1]/div[@class='text-box']/p[@class='intro']/a/text()
 - /html/body/div[@id='o-wrapper']/div[@class='wrapper']/section[@class='left-col']/div[@class='listing-box-container']/div[@class='listing-box'][1]/div[@class='text-box']/p[@class='date-box']/text()
+- /html/body/div[@id='o-wrapper']/div[@class='wrapper']/section[@class='left-col']/div[@class='listing-box-container']/div[@class='listing-box'][1]/div[@class='text-box']/h2[@class='split-heading-strong']/a/@href
 
 - till [10] page=24 OCT 27
 
