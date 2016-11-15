@@ -97,7 +97,7 @@ This gives us a list of 21 companies(with weightage) which are:
 + /html/body[@id='newsn']/section[@id='mc_content']/section[@class='pgWrapper clearfix PT10']/section[@class='colLft_in']/div[@class='wbg']/div[@class='artiCol PR']/div[@class='clearfix']/div[2]/ul[@class='nws_listing']/li[2]/div[@class='clearfix']/div[@class='ohidden']/p[@class='nws_datetx MT5']
 
 - http://www.moneycontrol.com/news/all-news-All-2-next-0.html
-- till li[2] ,li[4] .. li[32] http://www.moneycontrol.com/news/all-news-All-3350-next-0.html 11th Nov 2015 news
+- till li[2] ,li[4] .. li[32] http://www.moneycontrol.com/news/all-news-All-3382-next-0.html 10th Nov 2015 news
 
 
 ##### Livemint
