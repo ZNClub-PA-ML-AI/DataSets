@@ -6,13 +6,19 @@
 # automatically include all default channels. Non-url channels will be
 # interpreted as Anaconda.org usernames (this can be changed by modifying the
 # channel_alias key; see below). The default is just 'defaults'.
-channels:
-  - r
-  - defaults
+#channels:
+#  - r
+#  - defaults
 
 # Show channel URLs when displaying what is going to be downloaded and
 # in 'conda list'. The default is False.
-show_channel_urls: True
+#show_channel_urls: True
 
 
 # See http://conda.pydata.org/docs/install/config.html for more information about this file.
+
+proxy_servers:
+  http: http://7052:rqde9515@7.1.1.28:3128
+  https: https://7052:rqde9515@7.1.1.28:3128
+
+ssl_verify: False
