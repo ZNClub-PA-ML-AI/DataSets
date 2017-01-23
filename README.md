@@ -53,6 +53,27 @@ This gives us a list of 21 companies(with weightage) which are:
   Reliance Industries	5.43
   Tata Power	0.44
 
+ * Telecomm
+  Bharti Airtel	1.41
+  Idea Cellular	0.32
+  Bharti Infratel	0.66
+  
+ * Pharma
+  Cipla	0.95
+  Dr. Reddy’s Lab	1.32
+  Lupin	1.19
+  Sun Pharmaceutical	2.54
+  Aurobindo Pharma	0.66
+  
+  * Automobile
+  Bajaj Auto	1.21
+  Bosch	0.62
+  Hero MotoCorp	1.34
+  Mahindra & Mahindra	1.82
+  Maruti Suzuki	2.31
+  Eicher Motors	0.95
+  Tata Motors	2.93
+  Tata Motors Ltd. (DVR)	0.50
 
 ### Market News Strategy
 
