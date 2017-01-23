@@ -99,6 +99,11 @@ This gives us a list of 21 companies(with weightage) which are:
 - http://www.moneycontrol.com/news/all-news-All-2-next-0.html
 - till li[2] ,li[4] .. li[32] http://www.moneycontrol.com/news/all-news-All-3382-next-0.html 10th Nov 2015 news
 
+  BODY
++ /html/body[@id='newsn']/section[@id='mc_content']/section[@class='pgWrapper clearfix PT10']/section[@class='colLft_in']/div[@class='wbg']/div[@class='artiCol PR']/div[@class='arti_cont']/div[@class='MT20']
+
+
+
 
 ##### Livemint
 
