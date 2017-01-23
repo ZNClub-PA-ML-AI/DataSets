@@ -124,6 +124,9 @@ This gives us a list of 21 companies(with weightage) which are:
 - http://www.livemint.com/Query/hHUQJ3ncBXZBGH3eVyKlkJ/energy.html?facet=subSection&page=0 to 24
 - http://www.livemint.com/Query/t5YPD42JdoNxoDBxwNemkJ/industry-opinion.html?facet=subSection&page=0 to 24
 
+  BODY
+- /html/body/div[@id='o-wrapper']/div[@class='wrapper']/section[@class='left-col']/div[@id='div_storyContent']/div[@class='story-content']
+
 ##### Economic Times
 
 - http://economictimes.indiatimes.com/markets/stocks/news
@@ -134,4 +137,5 @@ This gives us a list of 21 companies(with weightage) which are:
 
 - till [32] http://economictimes.indiatimes.com/markets/stocks/news/articlelist/msid-2146843,page-100.cms SEP 28
 
-
+  BODY
+- /html/body/div[@id='o-wrapper']/div[@class='wrapper']/section[@class='left-col']/div[@id='div_storyContent']/div[@class='story-content']
