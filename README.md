@@ -159,4 +159,4 @@ This gives us a list of 21 companies(with weightage) which are:
 - till [32] http://economictimes.indiatimes.com/markets/stocks/news/articlelist/msid-2146843,page-100.cms SEP 28
 
   BODY
-- /html/body/div[@id='o-wrapper']/div[@class='wrapper']/section[@class='left-col']/div[@id='div_storyContent']/div[@class='story-content']
+- /html/body[@class='bgImg ']/section[@id='netspidersosh']/div[@id='c_01']/section[@id='pageContent']/article/div[@class='artText printLiveShow']/div[@class='section1']/div[@class='Normal']
